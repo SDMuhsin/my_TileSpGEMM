@@ -1,0 +1,1 @@
+nvcc .\main.cu -I.\include\ -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.3/include" -o .\dist\r.exe
